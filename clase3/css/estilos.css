@@ -1,0 +1,70 @@
+/* globales */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+
+/* selector {
+    propiedad: valor;  
+
+
+    propiedad2: valor2; 
+
+
+    propiedad3: valor3; 
+
+} */
+
+
+/* #p_color_verde {
+    color: rgb(23, 124, 65);
+}
+
+.p_color_blue {
+    color: #0075FF;
+}
+
+
+p {
+    color: red;
+} */
+
+
+
+/* div {
+    color: red;
+} */
+
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+p {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 4rem;
+    /* font-size: 300%; */
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    text-decoration: line-through;
+}
+
+body {
+    /* background-color: red; */
+    /* background-image: url(https://static.messi.com/wp-content/uploads/2021/09/Messi-silueta-1.png);
+    background-repeat: no-repeat;
+    background-position: top top;
+    background-size: cover; */
+}
